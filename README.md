@@ -1,24 +1,11 @@
 # vue_todolist
 
-## Project setup
+## About
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Simple ToDo-app for practicing Vue. Uses jsonplaceholder as "fake REST API" for storing data.
 ```
 
-### Compiles and minifies for production
+## Tech
 ```
-npm run build
+Vue, Axios
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
